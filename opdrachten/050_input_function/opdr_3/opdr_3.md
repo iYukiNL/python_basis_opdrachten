@@ -17,5 +17,5 @@ Stel je vraagt de gebruiker om steden in te vullen:
 
 ```python
 #output
-["Zwole", "Zaanstad", "Haarlem", "Dronten", "Amsterdam"]
+["Zwolle", "Zaanstad", "Haarlem", "Dronten", "Amsterdam"]
 ```
