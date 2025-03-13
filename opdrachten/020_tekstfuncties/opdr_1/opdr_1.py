@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student:
+# Naam student:Bert
 # Groep:
 
 # Hier komt je code...
@@ -15,5 +15,4 @@ print()
 voornaam = "albert"
 achternaam = "einstein"
 
-
-print()
+print (f"{voornaam} {achternaam} zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'")
