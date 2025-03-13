@@ -1,7 +1,9 @@
 # Opdracht 1
-# Naam student:
+# Naam student:Bert
 # Groep:
 
 # Hier komt je code...
 
-my_list = ...
+mylist = [13, "wat een weertje", 12.5, 8]
+print (mylist)
+
